@@ -1,0 +1,6 @@
+useDynLib(MixtureRegLTIC,digamiv,turnbulls, .registration = TRUE)
+export("MixtureLogitAFT","printMixture","plotMixture","plotResidual","NPMLEsurv","plotNPMLEsurv")
+importFrom(grDevices, "colors")
+importFrom(graphics, "plot", "points")
+importFrom(stats, "as.formula", "dnorm", "optim", "pchisq", "pnorm","qgamma", "qnorm")
+importFrom(utils, "read.table", "write.table")
