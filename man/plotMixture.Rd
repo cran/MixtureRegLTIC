@@ -19,7 +19,7 @@ xlab = NULL, ylab = NULL, main = NULL, col = NULL, lty = NULL, lwd = 1, axes = T
 
 \item{ylab}{the title for y axis.}
 
-\item{main}{the main title.}
+\item{main}{the main title of the plot.}
 
 \item{col}{a vector of colors.}
 

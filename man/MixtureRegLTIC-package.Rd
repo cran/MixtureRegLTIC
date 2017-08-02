@@ -1,16 +1,16 @@
 \name{MixtureRegLTIC-package}
 \alias{MixtureRegLTIC-package}
 \docType{package}
-\title{Fit Mixture Regression Models for Left-Truncated and Interval-Censored Data}
+\title{Mixture Regression Models for Left-Truncated and Interval-Censored Data}
 \description{
-Fit mixture regression models with nonsusceptibility/cure for left-truncated and interval-censored (LTIC) data. This package also provides the nonparametric maximum likelihood estimator (NPMLE) for the survival/event curves with LTIC data. Chen et al. (2013) <doi:10.1002/sim.5845>
+Fit mixture regression models with nonsusceptibility/cure for left-truncated and interval-censored (LTIC) data (see Chen et al. (2013) <doi:10.1002/sim.5845>). This package also provides the nonparametric maximum likelihood estimator (NPMLE) for the survival/event curves with LTIC data.
 }
 \details{
 \tabular{ll}{
 Package: \tab MixtureRegLTIC\cr
 Type: \tab Package\cr
-Version: \tab 0.9.4\cr
-Date: \tab 2017-08-01\cr
+Version: \tab 1.0.0\cr
+Date: \tab 2017-08-02\cr
 Depends: \tab R (>= 3.3.1)\cr
 License: \tab GPL-2|GPL-3\cr
 Encoding: \tab UTF-8 \cr

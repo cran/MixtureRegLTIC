@@ -8,7 +8,7 @@ A Generated Set with LTIC Data in Simulation Scenario (a) of Chen et al. (2013)
 A generated set with left-truncated and interval-censored data in simulation scenario (a) of Chen et al. (2013) can be used in the package MixtureRegLTIC for fitting mixture regression models.}
 \usage{data(simLTICdataA)}
 \format{
-There are 500 simulated observations with the following variables:
+There are 200 simulated observations with the following variables:
 \describe{
 \item{\code{time1}}{left time-endpoint of interval censored data}
 \item{\code{time2}}{right time-endpoint of interval censored data}

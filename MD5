@@ -1,4 +1,4 @@
-b61d7a07168fde1838e8efeb763dcd38 *DESCRIPTION
+7e7692fcccc4cbdbd7068b5129251707 *DESCRIPTION
 dcdfc2a277d374fc17bdd7cf72d6c8b6 *NAMESPACE
 01c5653571c14e96c6715e15e9163872 *R/HGNlogL.R
 60c184fb037dc042bdc638b8925ae5ac *R/MixtureLogitAFT.R
@@ -14,14 +14,14 @@ b188d0b3e77989855a51bed89ae2dd53 *R/plotResidual.R
 49011840dfad04c1cd65e412eb2ed14e *data/simLTICdataA.rda
 f86b74af30d85abd7abe5777b10e456f *data/simLTICdataE.rda
 ffd9bf5d0bbc7b53545c9f112024a03a *man/MixtureLogitAFT.Rd
-9c26bbadcae7fa5144024b385f0f2847 *man/MixtureRegLTIC-package.Rd
+11e132c7e25e8d8be36ba6f28512f857 *man/MixtureRegLTIC-package.Rd
 eba7d010bdb4545e7a5af4545d12e22c *man/NPMLEsurv.Rd
-8b1b8e0c507b19be914c9c0e16789de6 *man/plotMixture.Rd
-a0263910915cb81683bf15643a7c7953 *man/plotNPMLEsurv.Rd
-6646810ffa831033394ddd95f830c7c8 *man/plotResidual.Rd
+91564facfa3ee54f2d0bc4ac870e2e15 *man/plotMixture.Rd
+402dfe1f63f22ff37d7109f72222903f *man/plotNPMLEsurv.Rd
+4f15a9ecdd27008d75a626776806174c *man/plotResidual.Rd
 2acdfea40af11fe353b855bea0d25d29 *man/printMixture.Rd
-651d51fd8e3aa32daf2bb7330cfdedbc *man/simLTICdataA.Rd
-9971e83ec066c2ee51ec957b5f8cbd18 *man/simLTICdataE.Rd
-f0b1c7e2062664dbefc7d59abc6a91c4 *src/RegisterDynamicSymbols.c
+c8027487649619bb518aed574443f571 *man/simLTICdataA.Rd
+5d0ee41663f0b82f7e581a14633085e3 *man/simLTICdataE.Rd
 fcd252936938100aae31a1a007d4cf0d *src/igamma.f90
+5ac3fde6e2b442b89d557cbf6c14f77d *src/initMixtureRegLTIC.c
 616ad60be600f5885871d02d30d8df2f *src/turnbull.f90
